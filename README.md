@@ -10,12 +10,12 @@
 
 <h2>Skills 💻 </h2>
 
-<p align="rigth">
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL">
   <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=yellow&color=%233776AB">
 </p>
-<p align="rigth">
+<p align="center">
   <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Metabase-white?style=for-the-badge&logo=Metabase">
     <img src="https://img.shields.io/badge/Sheets/Excel-white?style=for-the-badge&logo=Google%20Sheets">
@@ -23,7 +23,6 @@
 <p align="rigth">
 
 </p>
-<br>
 <h2>Portfolio 🌐 </h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=In+progress..." alt="Typing SVG" /></a>
